@@ -147,3 +147,6 @@ for (const item of itemsToAdd.foils) {
 window.alert('All kaarten zijn geimporteerd! Refresh even de pagina zodat er zeker niks kapot gaat.');
 
 ```
+
+Done! Alle kaarten zouden nu toegevoegd moeten zijn aan je shopping list. Wil je nog andere bestellingen importeren? Refresh de pagina en volg de stapjes opnieuw.
+
